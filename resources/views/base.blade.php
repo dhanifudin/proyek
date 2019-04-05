@@ -1,7 +1,7 @@
 @include('header')
 
 @section('content')
-    This is the base layout
+    Welcome to my site.
 @show
 
 @include('footer')
